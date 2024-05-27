@@ -30,7 +30,7 @@ var serial = {};
 (function(){
     'use strict';
     console.info("Starting Triggerboard.");
-fetch('/config.json')
+fetch('./config.json')
   .then(response => response.json())
   .then(data => populateList(data.buttons))
   .catch(error => console.log(error));
