@@ -1,0 +1,12 @@
+{
+    "buttons": [
+        {"name": "Power On", "command": "P"},
+        {"name": "Power Off", "command": "O"},
+        {"name": "Godhorn", "command": "G"},
+        {"name": "Shorthorn", "command": "S"},
+        {"name": "Warhorn", "command": "W"},
+        {"name": "Fire Road", "command": "R"},
+        {"name": "Fire Luminator", "command": "L"},
+        {"name": "March", "command": "M"}
+    ]
+}
